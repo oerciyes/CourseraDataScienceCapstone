@@ -1,7 +1,7 @@
 # CourseraDataScienceCapstone
 This is the project for the final capstone course of the Data Science Specialization
 
-Data Science Specialization Capstone: Swiftkey Text Prediction
+N-Gram Text Prediction Algorithms
 ========================================================
 author: Ozgur Erciyes
 date: 9 July 2016
