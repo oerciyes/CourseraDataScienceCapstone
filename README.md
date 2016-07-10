@@ -30,4 +30,4 @@ About the Code
 For more information refer to the following links:
 * Github Repository: https://github.com/oerciyes/CourseraDataScienceCapstone
 * Application: https://oerciyes.shinyapps.io/NextWord/
-* RPubs Presentation: 
+* RPubs Presentation: http://rpubs.com/oerciyes/194914
