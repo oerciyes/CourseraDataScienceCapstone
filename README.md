@@ -3,8 +3,8 @@ This is the project for the final capstone course of the Data Science Specializa
 
 Data Science Specialization Capstone: Swiftkey Text Prediction
 ========================================================
-author: Shaun Wesley Que
-date: July 2016
+author: Ozgur Erciyes
+date: 9 July 2016
 
 Introduction
 ========================================================
